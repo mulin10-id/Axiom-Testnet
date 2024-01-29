@@ -1,4 +1,4 @@
-New Testnet : Axiom
+28/1/2024 New Testnet : Axiom
 ➡️ Connect Metamask :  https://repl.axiom.xyz/#
 ➖️ Click " Test Circuit "
 ➖️ Select " Generate Key "
